@@ -3,7 +3,7 @@
 ## 📋 Overview
 This repository contains a comprehensive, end-to-end implementation of an **Enterprise Risk Management (ERM)** framework modeled for a cloud-native Software-as-a-Service (SaaS) Learning Management System (LMS) provider, **NexaLearn Inc.** (supporting 520,000+ active global students and 20,000+ faculty members).
 
-Recent high-profile security incidents targeting the educational ecosystem—such as the **Canvas LMS credential outbreaks** orchestrated by threat groups like ShinyHunters—demonstrate that cloud-native environments can no longer treat risk management as a static compliance check. 
+Recent high-profile security incidents targeting the educational ecosystem such as the **Canvas LMS credential outbreaks** orchestrated by threat groups like ShinyHunters demonstrate that cloud-native environments can no longer treat risk management as a static compliance check. 
 
 This project bridges the gap between GRC theory and active defense by simulating a structured compliance and threat-modeling roadmap built from the ground up, utilizing international security standards including **ISO/IEC 27001:2022 (Clause 4)** and **NIST CSF 2.0**.
 
