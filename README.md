@@ -1,4 +1,4 @@
-# NexaLearn Inc. — Enterprise Risk Management (ERM) Framework
+# NexaLearn Inc. - Enterprise Risk Management (ERM) Framework
 
 ## 📋 Overview
 This repository contains a comprehensive, end-to-end implementation of an **Enterprise Risk Management (ERM)** framework modeled for a cloud-native Software-as-a-Service (SaaS) Learning Management System (LMS) provider, **NexaLearn Inc.** (supporting 520,000+ active global students and 20,000+ faculty members).
